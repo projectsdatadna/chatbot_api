@@ -8,13 +8,15 @@ import { initMemoryStore, queryRag } from "./services/chatService.js";
 dotenv.config()
 const app = express()
 
-app.use(cors());
+
+const allowedOrigin = process.env.ALLOWED_ORIGIN || "*";
+
+app.use(cors({ origin: allowedOrigin }));
 
 app.use(express.json())
 app.use(bodyParser.json());
 
 await initMemoryStore()
-
 
 app.post("/chat", async (req, res) => {
     const { query, customerID } = req.body;
