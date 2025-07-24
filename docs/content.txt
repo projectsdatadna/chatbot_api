@@ -1,0 +1,17 @@
+Title: HealthPlus Gold Insurance Policy
+Policy ID: HP-GOLD-2048
+Issued By: CompanyX Insurance Pvt. Ltd.
+Effective Date: January 1, 2024
+Validity: 1 year (Renewable annually)
+
+SECTION 1: POLICY COVERAGE
+- This policy provides coverage for hospitalization expenses up to ₹10,00,000 per annum.
+- Includes pre-hospitalization (30 days) and post-hospitalization (60 days).
+- Covers doctor consultation, medicines, diagnostics, room charges, and surgeries.
+- Ambulance charges covered up to ₹5,000 per hospitalization.
+
+SECTION 2: CUSTOMER SUPPORT
+- Call: 1800-123-4567 (24x7)
+- Email: support@companyx.com
+- WhatsApp: +91-9876543210
+- Website: www.companyx.com
